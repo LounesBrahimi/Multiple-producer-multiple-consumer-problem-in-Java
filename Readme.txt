@@ -1,0 +1,1 @@
+La commande "ant" permet de compiler et d'exécuter le projet.
